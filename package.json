@@ -1,0 +1,28 @@
+{
+  "name": "react-native-appstate-transition",
+  "description": "A React Native module for easily running code on app state transitions",
+  "packageManager": "yarn@4.3.1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types": "index.d.ts",
+  "author": {
+    "email": "gus@ryer.io",
+    "name": "Angus Ryer",
+    "url": "https://ryer.io"
+  },
+  "license": "MIT",
+  "keywords": [
+    "react-native",
+    "appstate",
+    "transition",
+    "background",
+    "foreground",
+    "pause",
+    "resume"
+  ],
+  "repository": "https://github.com/angusryer/react-native-appstate-transition.git",
+  "bugs": ""
+}
